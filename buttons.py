@@ -69,4 +69,4 @@ class test(commands.Cog):
 client.add_cog(test(client))
     
 
-client.run("MTIxNjg2NDA4MDU0ODA3MzYzMw.GY_WjV.ZqQyepCO3rj_kCE1hfuzLTmR1rD23r2nt5kA0g")
+client.run(")
